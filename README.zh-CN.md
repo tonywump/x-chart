@@ -31,6 +31,9 @@
 # 克隆项目
 git clone https://github.com/yugasun/x-chart.git
 
+# 进入项目文件夹
+cd x-chart
+
 # 安装依赖
 npm install
 
