@@ -31,6 +31,9 @@
 # clone the project
 git clone https://github.com/yugasun/x-chart.git
 
+# enter project folder
+cd x-chart
+
 # install dependency
 npm install
 
